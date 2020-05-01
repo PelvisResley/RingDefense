@@ -1,0 +1,12 @@
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\bin\Debug\netcoreapp2.0\Ring Defense.deps.json
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\bin\Debug\netcoreapp2.0\Ring Defense.runtimeconfig.json
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\bin\Debug\netcoreapp2.0\Ring Defense.runtimeconfig.dev.json
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\bin\Debug\netcoreapp2.0\Ring Defense.dll
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\bin\Debug\netcoreapp2.0\Ring Defense.pdb
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\obj\Debug\netcoreapp2.0\Ring Defense.csprojAssemblyReference.cache
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\obj\Debug\netcoreapp2.0\Ring Defense.csproj.CoreCompileInputs.cache
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\obj\Debug\netcoreapp2.0\Ring Defense.AssemblyInfoInputs.cache
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\obj\Debug\netcoreapp2.0\Ring Defense.AssemblyInfo.cs
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\obj\Debug\netcoreapp2.0\Ring Defense.dll
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\obj\Debug\netcoreapp2.0\Ring Defense.pdb
+C:\Users\Freddo\Desktop\Monogame\Ring Defense\obj\Debug\netcoreapp2.0\Ring Defense.genruntimeconfig.cache

@@ -7,7 +7,7 @@ namespace Ring_Defense
         [STAThread]
         static void Main()
         {
-            using (var game = new Game1())
+            using (var game = App.Instance)
                 game.Run();
         }
     }
