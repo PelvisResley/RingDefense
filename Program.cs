@@ -9,6 +9,7 @@ namespace Ring_Defense
         {
             using (var game = App.Instance)
                 game.Run();
+            
         }
     }
 }

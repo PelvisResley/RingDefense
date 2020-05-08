@@ -7,14 +7,16 @@ namespace Ring_Defense
 {
     class MenuScene : Scene
     {
-        private SpriteBatch m_spriteBatch;
+        private SpriteBatch sb;
+
+        Camera camera;
         public override void Start(SceneArgs args)
         {
-            m_spriteBatch = new SpriteBatch(App.Instance.GraphicsDevice);
+            sb = new SpriteBatch(App.Instance.GraphicsDevice);
         }
 
         public override void End(){
-            m_spriteBatch.Dispose();
+            sb.Dispose();
         }
 
         public override void Update(GameTime gameTime)
@@ -27,6 +29,10 @@ namespace Ring_Defense
             App.Instance.GraphicsDevice.SetRenderTarget(App.Instance.RenderTarget);
 
             App.Instance.GraphicsDevice.Clear(Color.White);
+
+            sb.Begin(transformMatrix : camera.TransformMatrix);
+
+            sb.End();
         }
     }
 }

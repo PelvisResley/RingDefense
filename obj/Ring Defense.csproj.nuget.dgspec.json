@@ -1,34 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Freddo\\Desktop\\Monogame\\Ring Defense\\Ring Defense.csproj": {}
+    "C:\\Users\\Stefan\\Desktop\\Game project\\RingDefense\\Ring Defense.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Freddo\\Desktop\\Monogame\\Ring Defense\\Ring Defense.csproj": {
+    "C:\\Users\\Stefan\\Desktop\\Game project\\RingDefense\\Ring Defense.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Freddo\\Desktop\\Monogame\\Ring Defense\\Ring Defense.csproj",
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\Game project\\RingDefense\\Ring Defense.csproj",
         "projectName": "Ring Defense",
-        "projectPath": "C:\\Users\\Freddo\\Desktop\\Monogame\\Ring Defense\\Ring Defense.csproj",
-        "packagesPath": "C:\\Users\\Freddo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Freddo\\Desktop\\Monogame\\Ring Defense\\obj\\",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\Game project\\RingDefense\\Ring Defense.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\Game project\\RingDefense\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Freddo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,14 +34,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.0, )",
-              "autoReferenced": true
-            },
             "MonoGame.Content.Builder": {
               "target": "Package",
               "version": "[3.7.0.4, )"
@@ -66,6 +55,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }

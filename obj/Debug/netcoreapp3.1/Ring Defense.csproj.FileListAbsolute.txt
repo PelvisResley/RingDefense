@@ -1,0 +1,25 @@
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\Ring Defense.exe
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\Ring Defense.deps.json
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\Ring Defense.runtimeconfig.json
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\Ring Defense.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\Ring Defense.dll
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\Ring Defense.pdb
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.so
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libSDL2-2.so
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libopenal.so
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.dylib
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.dylib
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSDL2-2.dll
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libopenal.dll
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSDL2-2.dll
+C:\Users\Stefan\Desktop\Game project\RingDefense\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libopenal.dll
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.csproj.CopyComplete
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.dll
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.pdb
+C:\Users\Stefan\Desktop\Game project\RingDefense\obj\Debug\netcoreapp3.1\Ring Defense.genruntimeconfig.cache

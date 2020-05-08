@@ -7,7 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Ring_Defense.Engine
+namespace Ring_Defense.Engine0
 {
     //camera. only responsible for manipulating the view of this, not for scaling to screen or smth
     public class Camera
